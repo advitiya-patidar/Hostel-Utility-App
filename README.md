@@ -6,7 +6,7 @@ I started developing the app by making a list of features my app should have. Th
 
 At the start I had to watch YouTube videos to solve each error that came in my code, but as I went further, i developed many functions of the app without taking help from anywhere. I did everything, from designing the app to writing code, testing the app, and creating its documentation. And in the end, I have good experience in developing mobile applications.</p>
 
-<h3 align="center">Email me at advitiya4673@gmail.com or advitiya9253@gmail.com for the source code of this project.</h3>
+<h3 align="center">/------ Email me at advitiya4673@gmail.com or advitiya9253@gmail.com for the source code of this project ------/</h3>
 
 <h2 align="center">Hostel User App</h2>
 
