@@ -12,62 +12,62 @@ At the start I had to watch YouTube videos to solve each error that came in my c
 
 <p  align="center">
 <!-- User App -->
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/1.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/2.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/3.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/4.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/5.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/1.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/2.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/3.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/4.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/5.jpg" class="img-responsive" alt="" height="360" width="200"/>
 
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/6.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/7.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/8.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/9.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/10.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/6.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/7.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/8.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/9.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/10.jpg" class="img-responsive" alt="" height="360" width="200"/>
 
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/11.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/12.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/13.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/14.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/15.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/11.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/12.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/13.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/14.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/15.jpg" class="img-responsive" alt="" height="360" width="200"/>
 
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/16.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/17.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/18.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/19.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/20.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/16.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/17.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/18.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/19.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/20.jpg" class="img-responsive" alt="" height="360" width="200"/>
 
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Utility%20App/21.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Utility%20App/21.jpg" class="img-responsive" alt="" height="360" width="200"/>
 </p>
   
 <!--  Admin App  -->
   <h2 align="center">Hostel Admin App</h2>
   
 <p  align="center">
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/1.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/2.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/3.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/4.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/5.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/1.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/2.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/3.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/4.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/5.jpg" class="img-responsive" alt="" height="360" width="200"/>
 
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/6.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/7.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/8.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/9.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/10.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/6.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/7.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/8.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/9.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/10.jpg" class="img-responsive" alt="" height="360" width="200"/>
 
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/11.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/12.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/13.jpg" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Hostel%20Admin%20App/14.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/11.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/12.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/13.jpg" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Hostel%20Admin%20App/14.jpg" class="img-responsive" alt="" height="360" width="200"/>
 </p>
 
 <h2 align="center">Data Stored in Firebase</h2>
   
 <p  align="center">
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Firebase%20Data/1.png" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Firebase%20Data/2.png" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Firebase%20Data/3.png" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Firebase%20Data/4.png" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Firebase%20Data/5.png" class="img-responsive" alt="" height="360" width="200"/>
-<img src="https://github.com/Advitiya9253/Hostel-Utility-Application/blob/main/Screenshot/Firebase%20Data/6.png" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Firebase%20Data/1.png" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Firebase%20Data/2.png" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Firebase%20Data/3.png" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Firebase%20Data/4.png" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Firebase%20Data/5.png" class="img-responsive" alt="" height="360" width="200"/>
+<img src="https://github.com/Advitiya9253/Hostel-Utility-App/blob/main/Screenshot/Firebase%20Data/6.png" class="img-responsive" alt="" height="360" width="200"/>
 </p>
