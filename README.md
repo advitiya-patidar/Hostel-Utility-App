@@ -1,6 +1,6 @@
 # Hostel-Utility-App
 
-<h3 align="center">Email me at advitiya4673@gmail.com or advitiya9253@gmail.com for the source code of this project.</h3>
+<h4 align="center">Email me at advitiya4673@gmail.com or advitiya9253@gmail.com for the source code of this project.</h4>
 
 <p>Built a project named "Hostel Utility App" in the language JAVA and XML by using Firebase Database on Android Studio IDE. I used the Bottom-Up approach to build this application. It took me around 30 days to complete this work. I followed a YouTube channel named "Papaya Coders" from there I learned about Activity, Fragment, and all other stuff.
 
